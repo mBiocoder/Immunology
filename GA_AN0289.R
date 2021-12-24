@@ -1,7 +1,6 @@
 #=================================================================================================================#
 # Exploratory analysis of BD Rhapsody targeted scRNA-Seq from Th subsets (CD25-, CD45RA-, CCR6, CXCR3, CCR4) 
 # isolated from healthy skin and blood
-#Author: Mahima Arunkumar (modified Gustavo's code)
 # Date: 10.12.2021
 # Adapted from https://satijalab.org/seurat/pbmc3k_tutorial.html
 # Adapted from https://www.biorxiv.org/content/biorxiv/suppl/2018/03/19/284604.DC1/284604-2.pdf
