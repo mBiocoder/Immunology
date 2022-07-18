@@ -1,2 +1,2 @@
 # Immunology
-Standard bioinformatics workflow applied for immunology
+Standard bioinformatics workflow applied for various research questions in immunology
