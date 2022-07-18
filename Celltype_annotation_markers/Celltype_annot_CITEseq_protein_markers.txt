@@ -1,0 +1,6 @@
+B cells: CD19 or CD20 positive, negative for CD3
+T cells: CD3 positive, negative for CD19, neg. for CD20, neg for CD14
+NK cells: CD56 pos, CD3 negative
+NKT cells, CD56 pos, and CD3 pos
+Monocytes: CD14 pos, CD3 neg
+DCs: CD11c pos, CD3 neg, CD19 neg
